@@ -1,0 +1,9 @@
+[0617/071702.194:ERROR:process_reader_win.cc(188)] ResumeThread: The parameter is incorrect. (0x57)
+[0617/071703.987:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0617/071703.987:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0617/071703.987:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0617/071703.987:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0617/071703.987:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0617/071703.987:ERROR:process_reader_win.cc(123)] NtOpenThread: An invalid Client ID was specified. (0xc000000b)
+[0617/071706.756:ERROR:exception_snapshot_win.cc(98)] thread ID 15832 not found in process
+[0617/071706.841:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
