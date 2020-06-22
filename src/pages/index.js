@@ -1,27 +1,14 @@
-import Link from "next/link";
-
-const Index = () => {
+function Index() {
   return (
-    <>
-      <ul>
-        <li>
-          <Link href="/">
-            <a>Home</a>
-          </Link>
-        </li>
-        <li>
-          <Link href="/about">
-            <a>About Us</a>
-          </Link>
-        </li>
-        <li>
-          <Link href="/contact">
-            <a>Contact us</a>
-          </Link>
-        </li>
-      </ul>
-    </>
+    <section class="hero has-text-light has-background-prime">
+      <div class="hero-body">
+        <div class="container">
+          <h1 class="title">Home</h1>
+          <h2 class="subtitle">Server side rendering</h2>
+        </div>
+      </div>
+    </section>
   );
-};
+}
 
 export default Index;
